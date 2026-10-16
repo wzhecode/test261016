@@ -1,0 +1,8 @@
+{
+  "name": "极简记账 - 个人资产与收支管理",
+  "description": "极简现代风个人记账应用，支持本地持久化存储、总资产管理、本月收支统计及智能分类账本",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
